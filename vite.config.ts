@@ -3,5 +3,6 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/gsap-animate',
   plugins: [vue()],
 })

@@ -46,7 +46,7 @@ function animatePage() {
       trigger: '.wrapper',
       start: 'top top',
       end: 'bottom center',
-      markers: true,
+      markers: false,
       scrub: 4,
       pin: true,
       pinSpacing: true,
